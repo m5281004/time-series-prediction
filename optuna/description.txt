@@ -1,0 +1,3 @@
+optunaでハイパーパラメータをチューニング
+'changepoint_range','n_changepoints','changepoint_prior_scale','seasonality_prior_scale','seasonality_mode'の5つをチューニング
+24時間ごとに出力。　optunaの目的関数は平均二乗誤差(Mean Squared Error)
