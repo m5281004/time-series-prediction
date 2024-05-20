@@ -1,0 +1,6 @@
+,best_parameter
+changepoint_range,0.8210000000000001
+n_changepoints,21
+changepoint_prior_scale,0.009000000000000001
+seasonality_prior_scale,6.5
+seasonality_mode,additive
