@@ -1,6 +1,7 @@
 facebook開発のprophetを使った予測
 
 prophetを理解するのにこのサイトが非常にわかりやすい　    https://devblog.thebase.in/entry/2019/12/20/110000_1
+
 原論文　https://peerj.com/preprints/3190.pdf
 
 y(t) = g(t) + s(t) + h(t) + ε   で時系列を表す
